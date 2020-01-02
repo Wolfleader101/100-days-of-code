@@ -1,11 +1,13 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 2, 2020
-**Today's Progress**: ---
+**Today's Progress**: Worked on 2 Rust Plugins a simple Hello command and a SteamID Finder command. Just learning the ropes of making plugin.
 
-**Thoughts:** ---
+**Thoughts:** It isnt too hard to make Rust Plugins and is quite enjoyable, cant wait to get to the exciting stuff.
 
-<!-- **Link to work:** [Calculator App](http://www.example.com) -->
+**Link(s) to work:** 
+1. [Hello Plugin](https://github.com/Wolfleader101/RustTestPlugin)
+1. [SteamIDFinder Plugin](https://github.com/Wolfleader101/SteamIDFinder)
 
 
 
