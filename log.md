@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 2, 2020
+### Day 1: January 2, 2020
 **Today's Progress**: Worked on 2 Rust Plugins a simple Hello command and a SteamID Finder command. Just learning the ropes of making plugin.
 
 **Thoughts:** It isnt too hard to make Rust Plugins and is quite enjoyable, cant wait to get to the exciting stuff.
@@ -9,10 +9,17 @@
 1. [Hello Plugin](https://github.com/Wolfleader101/RustTestPlugin)
 1. [SteamIDFinder Plugin](https://github.com/Wolfleader101/SteamIDFinder)
 
+### Day 2: January 3, 2020
+**Today's Progress**: I decided to go back on an old Project and work on my PasswordManager. I am hoping to develop this into a fully functioning Electron app. I spent a bit of time sharpening up my CSS skills aswell as converting it into SCSS so i can learn to use it. Right now just focusing on the UI and will be doing Backend password generation based on settings later.
+
+**Thoughts:** I really enjoy the front-end development workflow, however i am trash at SCSS/CSS 😂. With this project i am hoping to improve my SCSS and HTML skills. It can do your head in sometimes but once it gets working it feels amazing 😁
+
+**Link(s) to work:** 
+1. [Password Manager](https://github.com/Wolfleader101/PasswordManager)
+
 
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
