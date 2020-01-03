@@ -10,7 +10,7 @@
 1. [SteamIDFinder Plugin](https://github.com/Wolfleader101/SteamIDFinder)
 
 ### Day 2: January 3, 2020
-**Today's Progress**: I decided to go back on an old Project and work on my PasswordManager. I am hoping to develop this into a fully functioning Electron app. I spent a bit of time sharpening up my CSS skills aswell as converting it into SCSS so i can learn to use it. Right now just focusing on the UI and will be doing Backend password generation based on settings later.
+**Today's Progress**: I decided to go back to an old Project and work on my PasswordManager. I am hoping to develop this into a fully functioning Electron app. I spent a bit of time sharpening up my CSS skills aswell as converting it into SCSS so i can learn to use it. Right now just focusing on the UI and will be doing Backend password generation based on settings later.
 
 **Thoughts:** I really enjoy the front-end development workflow, however i am trash at SCSS/CSS 😂. With this project i am hoping to improve my SCSS and HTML skills. It can do your head in sometimes but once it gets working it feels amazing 😁
 
