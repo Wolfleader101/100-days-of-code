@@ -9,6 +9,7 @@
 1. [Hello Plugin](https://github.com/Wolfleader101/RustTestPlugin)
 1. [SteamIDFinder Plugin](https://github.com/Wolfleader101/SteamIDFinder)
 
+
 ### Day 2: January 3, 2020
 **Today's Progress**: I decided to go back to an old Project and work on my PasswordManager. I am hoping to develop this into a fully functioning Electron app. I spent a bit of time sharpening up my CSS skills aswell as converting it into SCSS so i can learn to use it. Right now just focusing on the UI and will be doing Backend password generation based on settings later.
 
@@ -16,6 +17,16 @@
 
 **Link(s) to work:** 
 1. [Password Manager](https://github.com/Wolfleader101/PasswordManager)
+
+
+### Day 3: January 4, 2020
+**Today's Progress**: Today i worked on simple Password Generators in different Languages in which other Developers can chip in and add/change the code. My main goal for this project is the improve my programming skills in multiple languages. 
+I also worked on my C# Skills a little more. I am following a Udemy Course for Unity Game Development. The Twitter bot is coming soon :)
+
+**Thoughts:** C# isnt difficult but i sharpen my OOP skills. I think this Project is a great way to improve these skills and would help me become a better dev.
+
+**Link(s) to work:** 
+1. [Password Generator All Langs](https://github.com/Wolfleader101/Password-Generator-All-Langs)
 
 
 
