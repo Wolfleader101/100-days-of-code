@@ -36,6 +36,16 @@ I also worked on my C# Skills a little more. I am following a Udemy Course for U
 **Link(s) to work:** 
 1. [Password Generator All Langs](https://github.com/Wolfleader101/Password-Generator-All-Langs)
 
+
+### Day 5: January 6, 2020
+**Today's Progress**: Today i researched up about keeping my password generator cryptographically secure. I rewrote the Math.random function has previously it was not secure and could be guessed. I have also started researching about making twitter bots.
+
+**Thoughts:** Fun and interesting stuff to research, i would like to thank people in The Coding Den Discord for bringing this to my attention :D 
+I am also starting my Diploma of Software Development today.
+
+**Link(s) to work:** 
+1. [Password Generator All Langs](https://github.com/Wolfleader101/Password-Generator-All-Langs)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
