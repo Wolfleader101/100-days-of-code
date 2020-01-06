@@ -28,7 +28,13 @@ I also worked on my C# Skills a little more. I am following a Udemy Course for U
 **Link(s) to work:** 
 1. [Password Generator All Langs](https://github.com/Wolfleader101/Password-Generator-All-Langs)
 
+### Day 4: January 5, 2020
+**Today's Progress**: Wrote this a little late but i worked more on the Password Manager, i worked on the CSS of the buttons aswell as started to develop the backend for the site.
 
+**Thoughts:** CSS is definetly not easy but it getting easier. I love SCSS and how powerful it is.
+
+**Link(s) to work:** 
+1. [Password Generator All Langs](https://github.com/Wolfleader101/Password-Generator-All-Langs)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
