@@ -46,6 +46,14 @@ I am also starting my Diploma of Software Development today.
 **Link(s) to work:** 
 1. [Password Generator All Langs](https://github.com/Wolfleader101/Password-Generator-All-Langs)
 
+### Day 6: January 7, 2020
+**Today's Progress**: Today i worked on a freelance service submission form for my site which now allows people to hire me. I still need to style it a bit nicer as right now it is the same button as Read More. I also need to style the form nicely. It took me a while to find a decent form submission library but i ended up chosing Formspree.
+
+**Thoughts:** Formspree is really simple to setup and easily allows me to get form data in a nice way without having to do my own backend work.
+
+**Link(s) to work:** 
+1. [Wolf Studios Website](https://github.com/Wolfleader101/Wolfleader101.github.io)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
