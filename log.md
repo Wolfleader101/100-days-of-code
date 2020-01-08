@@ -54,6 +54,14 @@ I am also starting my Diploma of Software Development today.
 **Link(s) to work:** 
 1. [Wolf Studios Website](https://github.com/Wolfleader101/Wolfleader101.github.io)
 
+### Day 7: January 8, 2020
+**Today's Progress**: Was not very productive today as i was not on my PC much due to family commitments however i did manage to jusst make the HireMe link take you to a popup aswell as doing a bit more of my Diploma.
+
+**Thoughts:** Wish i had more time to work on things today as i wanted to start work on some unity games and rust plugins
+
+**Link(s) to work:** 
+1. [Wolf Studios Website](https://github.com/Wolfleader101/Wolfleader101.github.io)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
