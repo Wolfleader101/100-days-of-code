@@ -7,7 +7,7 @@
 
 **Link(s) to work:** 
 1. [Hello Plugin](https://github.com/Wolfleader101/RustTestPlugin)
-1. [SteamIDFinder Plugin](https://github.com/Wolfleader101/SteamIDFinder)
+2. [SteamIDFinder Plugin](https://github.com/Wolfleader101/SteamIDFinder)
 
 
 ### Day 2: January 3, 2020
@@ -61,6 +61,15 @@ I am also starting my Diploma of Software Development today.
 
 **Link(s) to work:** 
 1. [Wolf Studios Website](https://github.com/Wolfleader101/Wolfleader101.github.io)
+
+### Day 8: January 9, 2020
+**Today's Progress**: Wrote this the next day as i forgot to log it. I worked more on my Diploma in which i followed a tutorial and made a simple Dining app which is meant to to teach you the basics of c#. I also did a bit of Unity in my udemy course (which i forgot to push lol)
+
+**Thoughts:** Was pretty simple to go through due to my past experiences with c# however it was a good refresher. I am loving Unity more than unreal aswell as loving c# and how i can just integrate my skills from the diploma to my unity workflow
+
+**Link(s) to work:** 
+1. [Diner Max 3000 Console](https://github.com/Wolfleader101/DinerMax3000Console)
+2. [Text101](https://github.com/Wolfleader101/Text101)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
