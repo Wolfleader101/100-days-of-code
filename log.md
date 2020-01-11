@@ -71,13 +71,22 @@ I am also starting my Diploma of Software Development today.
 1. [Diner Max 3000 Console](https://github.com/Wolfleader101/DinerMax3000Console)
 2. [Text101](https://github.com/Wolfleader101/Text101)
 
-### Day 8: January 9, 2020
+### Day 9: January 10, 2020
 **Today's Progress**: I did not do too much today and will not be doing too much over the next 3 days as I am doing my dive course which takes up the whole day. However I did manage to sneak in some time to continue following my Udemy course in which I learn about states.
 
 **Thoughts:** I was pretty tired but managed to soak in some content as well as coming up with some cool game ideas ;) really enjoying the course and will learn about 3D once I have completed this course.
 
 **Link(s) to work:** 
 1. [Text101](https://github.com/Wolfleader101/Text101)
+
+### Day 10: January 11, 2020
+**Today's Progress**: Today I got some time to work on Text101 and completed that section in the udemy course. I didn't really make my own story for this as i am just wanting to learn the key concepts of Unity however I do have some awesome game ideas I am going to try and develop.
+
+**Thoughts:** Again I had a long day so I was tired but I really love unity and I have some awesome ideas I am wanting to share with everyone.
+
+**Link(s) to work:** 
+1. [Text101](https://github.com/Wolfleader101/Text101)
+
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 
