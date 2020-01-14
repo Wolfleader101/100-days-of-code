@@ -87,22 +87,17 @@ I am also starting my Diploma of Software Development today.
 **Link(s) to work:** 
 1. [Text101](https://github.com/Wolfleader101/Text101)
 
+### Day 11: January 12, 2020
+**Today's Progress**: For the 12th, 13th and 14th I didn't get time to actually write up a log as I was busy doing my dive course and also had family commitments. However over this time in my free time I was able to go over my diploma. I probably won't post that code as it wasn't much.
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
+**Thoughts:** Struggled to find time to do #100DaysOfCode however from the 15th I will be back into full swing!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 12: January 13, 2020
+**Today's Progress**: For the 12th, 13th and 14th I didn't get time to actually write up a log as I was busy doing my dive course and also had family commitments. However over this time in my free time I was able to go over my diploma. I probably won't post that code as it wasn't much.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Struggled to find time to do #100DaysOfCode however from the 15th I will be back into full swing!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 13: January 14, 2020
+**Today's Progress**: For the 12th, 13th and 14th I didn't get time to actually write up a log as I was busy doing my dive course and also had family commitments. However over this time in my free time I was able to go over my diploma. I probably won't post that code as it wasn't much.
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+**Thoughts:** Struggled to find time to do #100DaysOfCode however from the 15th I will be back into full swing!
