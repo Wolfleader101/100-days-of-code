@@ -101,3 +101,13 @@ I am also starting my Diploma of Software Development today.
 **Today's Progress**: For the 12th, 13th and 14th I didn't get time to actually write up a log as I was busy doing my dive course and also had family commitments. However over this time in my free time I was able to go over my diploma. I probably won't post that code as it wasn't much.
 
 **Thoughts:** Struggled to find time to do #100DaysOfCode however from the 15th I will be back into full swing!
+
+### Day 13: January 14, 2020
+**Today's Progress**: Today I just refactored some code on DrawMe as I am getting it ready for adding settings. I also followed some of Brackeys tutorials on making 2D games and tomorrow will also do my udemy course.
+
+**Thoughts:** Really enjoying unity, it is so simple. I am also excited to work on my DrawMe project as I have drawn a rough design of what I would like it to look like.
+
+**Link(s) to work:** 
+1. [Test2DProject](https://github.com/Wolfleader101/Test2DProject)
+2. [DrawMe Repo](https://github.com/Wolfleader101/DrawMe)
+3.  [DrawMe](https://drawme.wolfstudios.dev/)
