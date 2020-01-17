@@ -118,3 +118,10 @@ I am also starting my Diploma of Software Development today.
 **Thoughts:** Making rust plugins is really fun and pretty simple, now i just gotta think of things to make.
 **Link(s) to work:** 
 1. [GiveCommand](https://github.com/Wolfleader101/GiveCMD)
+
+### Day 16: January 17, 2020
+**Today's Progress**: Today I am working on the 3D Unity course on udemy. I am loving it so far. I also switched to GitKraken because why not. I should probably make that twitter bot that posts all my commits.
+
+**Thoughts:** I love unity and am excited to complete my first game. I also love GitKraken however the UI is very cluttered and in your face whereas Github Desktop is very simple and easier (maybe also because i use it more 😂)
+**Link(s) to work:** 
+1. [ExoBoost](https://github.com/Wolfleader101/ExoBoost)
