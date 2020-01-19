@@ -125,3 +125,20 @@ I am also starting my Diploma of Software Development today.
 **Thoughts:** I love unity and am excited to complete my first game. I also love GitKraken however the UI is very cluttered and in your face whereas Github Desktop is very simple and easier (maybe also because i use it more 😂)
 **Link(s) to work:** 
 1. [ExoBoost](https://github.com/Wolfleader101/ExoBoost)
+
+### Day 17: January 18, 2020
+**Today's Progress**: Today I worked on my twitter bot. It is not completed yet and right now only retweets sort of work. Tomorrow (19th) I will be away and may not be able to code however if i do i am going to try research into Github Hooks.
+
+**Thoughts:** This whole process has been pretty easy to setup. I may want to change the values of the Paramaters of the bot so it doesnt spam aswell as making 2 different retweets, both popular and recent.
+
+**Link(s) to work:** 
+1. [Wolfee Bot](https://github.com/Wolfleader101/Wolfee-Bot)
+
+### Day 18: January 19, 2020
+**Today's Progress**: Today I worked on my twitter bot again. Just mainly refactored the code as i didnt get time to do much else.
+
+**Thoughts:** Refactoring code is so fun <3
+
+**Link(s) to work:** 
+
+1. [Wolfee Bot](https://github.com/Wolfleader101/Wolfee-Bot)
